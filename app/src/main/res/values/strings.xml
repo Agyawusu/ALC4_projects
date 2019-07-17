@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="textview">TextView</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="button">Button</string>
+    <string name="my_profile">My Profile</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="todo">TODO</string>
+    <string name="agyawusu">Agyawusu</string>
+    <string name="Agyawusu" />
+    <string name="kofi_e_owusu">Kofi E. Owusu</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="ghana">Ghana</string>
+    <string name="keowusu1_gmail_com">keowusu1@gmail.com</string>
+    <string name="number">233247865537</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="kofiowusu">\@kofiowusu</string>
+    <string name="imageDescriptionText">A passport-sized photograph of a dark skinned man in a checked short sleeves shirt to represent the profile picture of Kofi.</string>
+    <string name="kofi_owusu">Kofi Owusu</string>
+</resources>
